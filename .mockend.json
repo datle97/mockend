@@ -1,0 +1,11 @@
+{
+  "name": "ONE_DARK",
+  "colors": {
+    "primary": "#9ccc65",
+    "secondary": "#9ccc65",
+    "text": {
+      "primary": "#e6e5e8",
+      "secondary": "#adb0bb"
+    }
+  }
+}
